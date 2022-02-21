@@ -7,6 +7,6 @@ This project is going a continuation of work of A project attempting to use defu
 to find a way to access the internal hardware's operating system.
 
 other members are
-INIT_6
-TANK
+INIT_6,
+TANK, and
 Robot *this is me*
